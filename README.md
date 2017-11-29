@@ -1,6 +1,6 @@
 ## CI Multiple CSRF Tab Library
 
-This is CI CSRF Multiple Tab library, who allow you to submit the same form in more 1 tab
+This is CodeIgniter / CI CSRF Multiple Tab library, who allow you to submit the same form in more 1 tab
 
 ## Requirements
 
